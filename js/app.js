@@ -89,4 +89,4 @@ const searchFood  = () =>{
     })
 }
 searchFood()
-loadData('rice')
+loadData('r')
